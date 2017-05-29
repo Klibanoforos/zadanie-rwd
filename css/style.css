@@ -1,0 +1,17 @@
+/* style ogólne*/
+
+* {
+    box-sizing: border-box;
+}
+
+/* style obrazka */
+
+img {
+    width: 100%;
+}
+
+/* style nagłówków */
+
+h1, h2 {
+    font-family: verdana, sans-serif;
+}
